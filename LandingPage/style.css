@@ -1,0 +1,104 @@
+
+
+body{
+    font-family:Verdana;
+    height:100%;
+
+
+
+}
+
+.backgroundvideo{
+    position:fixed;
+    right:0;
+    bottom:0;
+    min-width: 100%;
+    max-width:100%;
+    z-index: -1;
+    object-fit:cover;
+
+}
+
+.header{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-self:center;
+    background-color: black;
+    color: aliceblue;
+    opacity: 70%;
+    
+}
+
+
+
+
+.maintext{
+    display:inline-flex;
+    
+    width:100%;
+    height: 100%;   
+ 
+    background-color: black;
+    color: aliceblue;
+    opacity: 70%;
+}
+
+.sign{
+    width:7%;
+}
+
+.logo{
+    width: 350px;
+    height:350px;
+}
+
+.middletext{
+    background-color: black;
+    opacity: 70%;
+    height:100%;
+    width:100%;
+    color: aliceblue;
+}
+
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+.casinoroom{
+    height:200px;
+    width:300px;
+}
+
+.dining{
+    height:200px;
+    width:300px;
+}
+.unlimitedbeer{
+    height:200px;
+    width:300px;
+}
+.viproom{
+    height:200px;
+    width:300px;
+}
+.roomtext{
+    display: flex;
+    justify-content: center;
+}
+
+.block3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
